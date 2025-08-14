@@ -1,0 +1,9 @@
+{
+	"name": "blessydf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8044bfe-77e5-49ee-9dab-74cf3ec29fe5",
+		"tenantId": "43fad910-e5d6-4c4a-8f61-50f761631b5c"
+	}
+}
