@@ -5,11 +5,17 @@
 		"factoryName": {
 			"value": "blessydf"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"ls_AzureSql_password": {
 			"value": ""
 		},
 		"ls_blob_accountKey": {
 			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://stephenadls2.dfs.core.windows.net/"
 		},
 		"ls_AzureSql_properties_typeProperties_server": {
 			"value": "stephenserverscd.database.windows.net"
